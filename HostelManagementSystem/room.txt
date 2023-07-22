@@ -1,0 +1,48 @@
+Standard|A-01-01|500.00|This cozy standard room offers a comfortable stay with a pleasant ambiance.
+Standard|A-02-01|500.00|Enjoy your stay in this standard room featuring modern amenities and a relaxing atmosphere.
+Standard|A-03-01|500.00|Indulge in a pleasant stay in this well-appointed standard room with all the necessary comforts.
+Standard|A-04-01|500.00|Unwind in this spacious standard room designed to provide a relaxing and enjoyable experience.
+Deluxe|B-01-01|700.00|Experience luxury and comfort in this exquisite deluxe room designed to offer a premium stay.
+Deluxe|B-02-01|700.00|Enjoy a lavish stay in this deluxe room featuring elegant decor and upscale amenities.
+Deluxe|B-03-01|700.00|Indulge in sophistication and opulence in this well-appointed deluxe room.
+Deluxe|B-04-01|700.00|Retreat to this luxurious deluxe room and experience an indulgent stay like no other.
+Suite|C-01-01|900.00|Immerse yourself in the ultimate luxury of this suite, designed to provide a premium experience.
+Suite|C-02-01|900.00|Indulge in a grand stay in this spacious suite, offering elegant decor and upscale amenities.
+Suite|C-03-01|900.00|Experience luxury and comfort in this well-appointed suite with stunning views and modern amenities.
+Suite|C-04-01|900.00|Escape to this exquisite suite and enjoy a memorable stay with personalized services.
+Standard|A-01-02|500.00|Relax and unwind in this well-furnished standard room, offering a comfortable ambiance.
+Standard|A-02-02|500.00|Experience a pleasant stay in this standard room equipped with modern amenities and cozy furnishings.
+Standard|A-03-02|500.00|Enjoy a peaceful and relaxing stay in this well-appointed standard room with all the essential comforts.
+Standard|A-04-02|500.00|Indulge in a comfortable and rejuvenating stay in this spacious standard room.
+Deluxe|B-01-02|700.00|Immerse yourself in luxury and elegance in this well-furnished deluxe room with modern amenities.
+Deluxe|B-02-02|700.00|Enjoy a memorable stay in this deluxe room that offers a perfect blend of style and comfort.
+Deluxe|B-03-02|700.00|Experience luxury and relaxation in this well-designed deluxe room equipped with premium amenities.
+Deluxe|B-04-02|700.00|Indulge in a lavish stay in this spacious deluxe room featuring modern comforts and elegant furnishings.
+Suite|C-01-02|900.00|Experience the epitome of luxury in this suite, offering exquisite decor and a range of premium amenities.
+Suite|C-02-02|900.00|Indulge in a grand and opulent stay in this spacious suite with stunning views and upscale comforts.
+Suite|C-03-02|900.00|Escape to this sophisticated suite and experience luxury with its elegant decor and modern amenities.
+Suite|C-04-02|900.00|Immerse yourself in the luxurious ambiance of this suite, designed to provide a memorable stay.
+Standard|A-01-03|500.00|Unwind in this comfortable standard room, offering a serene ambiance and all the necessary amenities.
+Standard|A-02-03|500.00|Enjoy a relaxing stay in this standard room that provides a cozy atmosphere and a range of amenities.
+Standard|A-03-03|500.00|Experience comfort and convenience in this well-appointed standard room with modern amenities.
+Standard|A-04-03|500.00|Indulge in a peaceful stay in this spacious standard room designed to make your experience comfortable.
+Deluxe|B-01-03|700.00|Experience luxury and comfort in this deluxe room featuring elegant decor and upscale amenities.
+Deluxe|B-02-03|700.00|Relax and rejuvenate in this deluxe room that offers a perfect blend of style and relaxation.
+Deluxe|B-03-03|700.00|Enjoy a sophisticated and opulent stay in this well-appointed deluxe room with premium amenities.
+Deluxe|B-04-03|700.00|Unwind and pamper yourself in this spacious deluxe room designed to provide the utmost comfort.
+Suite|C-01-03|900.00|Indulge in luxury and elegance in this exquisite suite, offering breathtaking views and upscale amenities.
+Suite|C-02-03|900.00|Experience a grand stay in this spacious suite with elegant decor and a range of premium comforts.
+Suite|C-03-03|900.00|Relax and rejuvenate in this well-appointed suite with luxurious amenities and a serene ambiance.
+Suite|C-04-03|900.00|Escape to this exquisite suite and enjoy a memorable stay in a luxurious and tranquil setting.
+Standard|A-01-04|500.00|Experience comfort and tranquility in this cozy standard room with all the necessary amenities.
+Standard|A-02-04|500.00|Indulge in a pleasant stay in this standard room offering a serene ambiance and modern comforts.
+Standard|A-03-04|500.00|Relax and enjoy your stay in this well-equipped standard room designed to meet your needs.
+Standard|A-04-04|500.00|Retreat to this spacious standard room and experience a delightful and relaxing stay.
+Deluxe|B-01-04|700.00|Indulge in luxury and comfort in this exquisite deluxe room designed to offer a premium experience.
+Deluxe|B-02-04|700.00|Enjoy a lavish stay in this deluxe room featuring elegant decor and upscale amenities.
+Deluxe|B-03-04|700.00|Indulge in sophistication and opulence in this well-appointed deluxe room.
+Deluxe|B-04-04|700.00|Retreat to this luxurious deluxe room and experience an indulgent stay like no other.
+Suite|C-01-04|900.00|Immerse yourself in the ultimate luxury of this suite, designed to provide a premium experience.
+Suite|C-02-04|900.00|Indulge in a grand stay in this spacious suite, offering elegant decor and upscale amenities.
+Suite|C-03-04|900.00|Experience luxury and comfort in this well-appointed suite with stunning views and modern amenities.
+Suite|C-04-04|900.00|Escape to this exquisite suite and enjoy a memorable stay with personalized services.

@@ -1,0 +1,6 @@
+FirstName|LastName|DOB|Gender|Email|PhoneNumber|Address|ICnumber|TPnumber|Password
+Lim|Lip How|10-10-2002|Female|tp000000@mail.apu.edu.my|0000000000|No 0, Jalan AB 1/2 Taman Tiga, Seri Empat  Selima, Malaysia|1111|TP000000|0
+Lim|Lip Hew|12-12-2003|Female|tp000001@mail.apu.edu.my|0000000001|No 0, Jalan AB 1/2 Taman Tiga, Seri Empat  Selima, Malaysia|111111111111|TP000001|1
+Lim|Lip Hiw|14-7-2004|Male|tp000002@mail.apu.edu.my|0000000003|No 0, Jalan AB 1/2 Taman Tiga, Seri Empat  Selima, Malaysia|02020202020202|TP000002|2
+Lim|Lip Huw|5-7-2003|Female|tp000004@gmail.com|000000004|No 1 Jalan Du 2, Taman Tiga Seri Empat Selangor|444444444444|TP000004|4
+assasa|asaa|6-5-1904|Male|assa@gmial.com|33-71236133|hahahah|634645364|TP000015|123
